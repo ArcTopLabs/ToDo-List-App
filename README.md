@@ -1,8 +1,8 @@
 # Todo List App
 
-The Todo List App is HTML5 based application, you can use to Create quiz. Based on only 2 html5 pages, with single javascript this is complete in itself. 
+The Todo List App is HTML5 based application, you can use to Create ToDo Items. Based on only 2 html5 pages, with single javascript this is complete in itself. 
 The Todo List are persistent in nature meaning your build ToDo List will be there the next time you open up the app. The app uses ArcTop Labs : MasterDataNode Data Solution
-feature in order to store the voting data.
+feature in order to store the ToDo item data.
 
 ## FEATURES ##
 
